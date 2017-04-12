@@ -1,0 +1,33 @@
+{
+	"variables": [],
+	"info": {
+		"name": "rmgKruxWebURL",
+		"_postman_id": "e39f3d1d-49a7-5a91-6529-6790104c7a25",
+		"description": "RMG Krux request generator",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://prototype.rmg.network/profile?name=john&email=xyz@gmail.com&location=Frankfurt&gtm.uniqueEventId=4",
+			"request": {
+				"url": "https://prototype.rmg.network/profile?name=john&email=xyz@gmail.com&location=Frankfurt&gtm.uniqueEventId=4",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "https://prototype.rmg.network/profile?name=Marc&email=bla@gmail.com&location=Hamburg&gtm.uniqueEventId=5",
+			"request": {
+				"url": "https://prototype.rmg.network/profile?name=Marc&email=bla@gmail.com&location=Hamburg&gtm.uniqueEventId=5",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

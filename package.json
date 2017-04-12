@@ -1,0 +1,16 @@
+{
+  "name": "traffic-booster",
+  "version": "1.0.0",
+  "description": "Multiple request",
+  "main": "trafficBooster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "newman": "^3.5.2",
+    "sync": "^0.2.5"
+  }
+}
